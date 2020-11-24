@@ -1,16 +1,28 @@
-﻿<Properties StartupConfiguration="{FAF35DA4-EBCD-4B00-87BC-FA911EA31A96}|Default">
+﻿<Properties StartupConfiguration="{F6F45AD4-B840-4B1C-8499-91A12A4B3945}|Default">
   <MonoDevelop.Ide.ItemProperties.SwaggerTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwaggerTest/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwaggerTest/Properties/launchSettings.json">
     <Files>
-      <File FileName="SwaggerTest/Startup.cs" Line="1" Column="1" />
+      <File FileName="SwaggerTest/Startup.cs" Line="15" Column="2" />
+      <File FileName="CustomSwagger/Startup.cs" Line="15" Column="6" />
+      <File FileName="SwaggerTest/appsettings.json" Line="1" Column="1" />
+      <File FileName="CustomSwagger/appsettings.json" Line="1" Column="1" />
+      <File FileName="SwaggerTest/Properties/launchSettings.json" Line="22" Column="29" />
+      <File FileName="CustomSwagger/Properties/launchSettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CoreTest" expanded="True">
             <Node name="CoreTest" expanded="True" />
+            <Node name="CustomSwagger" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
             <Node name="SwaggerTest" expanded="True">
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -24,5 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CustomSwagger FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CustomSwagger PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
